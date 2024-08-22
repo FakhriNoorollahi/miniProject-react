@@ -23,6 +23,12 @@ const data = [
     city: "Tabriz",
     placeName: "Shah-Goli",
   },
+  {
+    id: 4,
+    imageUrl: "/src/assets/bagh-shahzadeh.jpg",
+    city: "Kerman(Mahan)",
+    placeName: "Baghe-Shahzade Mahan",
+  },
 ];
 
 function App() {
